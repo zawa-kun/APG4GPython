@@ -31,4 +31,4 @@ for文のループが元のリストの長さで動くのに対し、pop()でリ
 #         result -= 1
 #     calculation.pop(0)
 
-# print(result)
+# print(result)e
